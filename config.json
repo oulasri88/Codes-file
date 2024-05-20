@@ -1,0 +1,76 @@
+{
+	"blog": {
+		"blogger_id": "7159256583065900609",
+		"api_key": "AIzaSyBu4M9emLfd3xG38lwQ0YR5ThRgGVIoopM"
+	},
+	"app": {
+		"status": "1",
+		"report_email": "youremail@gmail.com",
+		"custom_label_list": "false",
+		"song_metadata": "true",
+		"image_album_art": "true",
+		"blur_radio_background": "false",
+		"privacy_policy_url": "https://sites.google.com/view/blogger-radio-app-privacy",
+		"more_apps_url": "https://play.solodroid.co.id/store/apps/",
+		"redirect_url": ""
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+		"ad_manager_banner_unit_id": "/6499/example/banner",
+		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+		"ad_manager_native_unit_id": "/6499/example/native",
+		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+		"fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+		"fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+		"fan_native_unit_id": "YOUR_PLACEMENT_ID",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"ironsource_app_key": "85460dcd",
+		"ironsource_banner_placement_name": "DefaultBanner",
+		"ironsource_interstitial_placement_name": "DefaultInterstitial",
+		"interstitial_ad_interval": 3,
+		"native_ad_interval": 8,
+		"native_ad_index": 3
+	},
+	"labels": [
+		{
+			"term": "Top40",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/culture.jpg"
+		},
+		{
+			"term": "Trance",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/education.jpg"
+		},
+		{
+			"term": "Dance",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/entertainment.jpg"
+		},
+		{
+			"term": "House",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/misc.jpg"
+		},
+		{
+			"term": "Arabic",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/national.jpg"
+		},
+		{
+			"term": "Hits",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/world.jpg"
+		}
+	]
+}
